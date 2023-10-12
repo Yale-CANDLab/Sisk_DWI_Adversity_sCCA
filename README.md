@@ -1,5 +1,5 @@
-# Sisk_DWI_Trauma_CCA
-### Code for DWI/Trauma CCA project
+# Sisk_DWI_Adversity_sCCA
+### Code for DWI/Adversity sCCA project
 
 **DWI_Extract_ICV_ScannerSite** computes intracranial volume and pulls site participant was scanned at from .json files.
 
