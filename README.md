@@ -5,7 +5,7 @@
 
 **DWI_Create_DataSet** pulls data from various sources, recodes and transforms to prepare for CCA analysis.
 
-**DWI_Motion_Exclusion** pulls motion metrics from QSIPrep output and removes outliers subjects.
+**DWI_Motion_Exclusion** pulls motion metrics from QSIPrep output and removes outliers.
 
 **DWI_Create_Jobfiles_Modeling** prepares DSQ batch submission.
 
