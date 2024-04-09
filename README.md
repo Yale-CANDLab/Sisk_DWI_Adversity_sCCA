@@ -12,3 +12,5 @@
 **DWI_RI_PMDModels_Iteration.py** is the code for a single iteration of model fitting.
 
 **DWI_RI_Evaluate_PMD** aggregates model results across iterations and analyzes them.
+
+The **requirements.txt** file lists the package versions used in the present analysis.
