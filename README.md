@@ -1,7 +1,7 @@
 # Sisk_DWI_Adversity_sCCA
 ### Code for DWI/Adversity sCCA project
 
-**DWI_Extract_ICV_ScannerSite** computes intracranial volume and pulls site participant was scanned at from .json files.
+**DWI_Extract_ICV_ScannerSite** extracts intracranial volume from Freesurfer files and pulls site participant was scanned at from .json files.
 
 **DWI_Create_Dataset** pulls data from various sources, recodes and transforms to prepare for CCA analysis.
 
