@@ -39,7 +39,8 @@ cval_x = 0.5
 cval_y = 0.5
 
 full_df = pd.read_csv(
-    analysis + '/DWI_RI_FullDataset_RegressedCovariates_n=107_2023-10-10_GFA_QA_RD_Adulthood_age_noEdu.csv')
+    analysis + '/DWI_RI_FullDataset_RegressedCovariates_InclSex_n=107_2024-03-17_GFA_QA_RD_ZIPBehavModel_ages0-17_RIAgeRegressed.csv')
+
 # ****************************************
 
 # Make output folder
@@ -138,8 +139,7 @@ analysis_columns = ['all_0.0_regr', 'all_1.0_regr', 'all_2.0_regr',
                     'all_6.0_regr', 'all_7.0_regr', 'all_8.0_regr',
                     'all_9.0_regr', 'all_10.0_regr', 'all_11.0_regr',
                     'all_12.0_regr', 'all_13.0_regr', 'all_14.0_regr',
-                    'all_15.0_regr', 'all_16.0_regr', 'all_17.0_regr',
-                    'all_18.0_regr']
+                    'all_15.0_regr', 'all_16.0_regr', 'all_17.0_regr']
 
 # Select resampled data
 resampled_data = split_sample(
