@@ -39,7 +39,7 @@ cval_x = 0.5
 cval_y = 0.5
 
 full_df = pd.read_csv(
-    analysis + '/DWI_RI_FullDataset_RegressedCovariates_InclSex_n=107_2024-03-17_GFA_QA_RD_ZIPBehavModel_ages0-17_RIAgeRegressed.csv')
+    analysis + '/DWI_RI_FullDataset_RegressedCovariates_InclSex_n=107_2024-04-16_GFA_QA_RD_ZIPBehavModel_ages0-17_RIAgeRegressed.csv')
 
 # ****************************************
 
