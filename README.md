@@ -9,7 +9,7 @@
 
 **DWI_Create_Jobfiles_Modeling** prepares DSQ batch submission.
 
-**DWI_RI_PMDModels_Iteration.py** is the code for a single iteration of model fitting.
+**DWI_RI_PMDModels_Iteration** is the code for a single iteration of model fitting.
 
 **DWI_RI_Evaluate_PMD** aggregates model results across iterations and analyzes them.
 
